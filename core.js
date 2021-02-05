@@ -20,5 +20,5 @@ client.on("message",(msg)=>{
 });
 
 
-client.login("ODA2OTI1MDQ1NjI0MzQwNTMx.YBwhgg.0Ka4zZoGPsWjxgTaIze_WT9c2EQ");
+client.login(dev.env.TOKEN);
 
