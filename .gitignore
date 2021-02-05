@@ -1,4 +1,4 @@
 node_modules/
 
 # ignorando env file
-dev.env
+.env
